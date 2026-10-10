@@ -1,10 +1,14 @@
 # PushLocal WP
 
+<p>
+  <img src="assets/brand/mark.svg" width="72" height="72" alt="PushLocal logo">
+</p>
+
 **Local code. Live in seconds.**
 
 PushLocal is a free, open-source WordPress developer tool for deploying local plugin changes without rebuilding ZIP files or using Git/FTP on the server.
 
-![PushLocal banner](site/assets/social-banner-1544x500.png)
+**Website:** https://mhmoradi93.github.io/pushlocal/
 
 ## Why PushLocal?
 
@@ -38,11 +42,13 @@ It pairs an installed WordPress plugin with its local source folder, compares SH
 
 ## Install
 
-1. Download the latest ZIP from the [dist folder](dist/pushlocal-1.0.1.zip).
+1. [Download PushLocal as a ZIP](https://github.com/mhmoradi93/pushlocal/archive/refs/heads/main.zip).
 2. In WordPress go to **Plugins → Add Plugin → Upload Plugin**.
-3. Upload and activate PushLocal.
+3. Upload the ZIP and activate PushLocal.
 4. Open **Tools → PushLocal**.
 5. Select the target plugin and pair its local source folder.
+
+> The repository root is the plugin root, so GitHub's branch ZIP is directly installable in WordPress.
 
 ## Safety model
 
@@ -54,9 +60,9 @@ See [SECURITY.md](SECURITY.md) for details.
 
 PushLocal is distributed directly rather than through the WordPress.org Plugin Directory because its core purpose is deploying executable plugin source code. See [DISTRIBUTION.md](DISTRIBUTION.md).
 
-## Website
+## Product site
 
-The product site is hosted from this repository with GitHub Pages.
+The static product site lives in [docs/](docs/) and is deployed with GitHub Pages.
 
 ## License
 
