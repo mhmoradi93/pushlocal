@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+<title id="title">PushLocal mark</title>
+<defs><linearGradient id="bg" x1="8" y1="56" x2="56" y2="8" gradientUnits="userSpaceOnUse"><stop stop-color="#4746D9"/><stop offset="1" stop-color="#6967FF"/></linearGradient></defs>
+<rect width="64" height="64" rx="16" fill="url(#bg)"/>
+<path d="M11 25.5c0-2.5 2-4.5 4.5-4.5H26l4.2 4.5H48.5c2.5 0 4.5 2 4.5 4.5v17.5c0 2.5-2 4.5-4.5 4.5h-33A4.5 4.5 0 0 1 11 47.5v-22Z" fill="#FFFFFF" fill-opacity=".13" stroke="#FFFFFF" stroke-width="2.2" stroke-linejoin="round"/>
+<path d="M23 43 43.5 22.5" fill="none" stroke="#5AF0C6" stroke-width="5" stroke-linecap="round"/>
+<path d="M34.7 22.5h8.8v8.8" fill="none" stroke="#5AF0C6" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="20" cy="44" r="3.2" fill="#FFFFFF"/>
+</svg>
